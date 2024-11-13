@@ -19,8 +19,6 @@ Kaggle:  Mental Health & Technology Usage Dataset
 # Analysis
 We found this
 1. Individuals with greater passive social media usage show higher median depression scores. This Suggests a positive correlation between passive scrolling and increased depression levels
-2. Elevated depression levels linked to both high passive scrolling and total social media time. Suggests that combined high usage may amplify negative mental health impacts.
-3.
-4. People tend to seek more valdation from Facebook and Instagram. The data suggests that people will tend to share more informaiton on Facebook and Instagram to get postivie validation.  
-   
-6. 
+2. There doesn’t seem to be an age-related correlation between social media usage duration and self-reported stress levels and mental health statuses.
+3.  Elevated depression levels linked to both high passive scrolling and total social media time. Suggests that combined high usage may amplify negative mental health impacts.
+4. People tend to seek more valdation from Facebook and Instagram. The data suggests that people will tend to share more informaiton on Facebook and Instagram to get postivie validation.
